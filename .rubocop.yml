@@ -1,0 +1,20 @@
+inherit_from: .rubocop_todo.yml
+
+Layout/TrailingBlankLines:
+  Enabled: false
+
+Layout/MultilineMethodCallIndentation:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Metrics/MethodLength:
+  Max: 15
+
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'

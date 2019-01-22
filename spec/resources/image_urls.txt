@@ -1,0 +1,6 @@
+http://someimage.com/images.jpg
+https://someimage.com/images.jpg
+ftp://someimage.com/images.jpg
+aaa://someimage.com/images.jpg
+http://someimage.com/images.png
+http://someimage.com/images.bmp
